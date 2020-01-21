@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 444dded5291d08d49816cea461e41d7d
+timeCreated: 1523966822
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rock: {fileID: 1370043015780160, guid: 4fcb07fef3341fb44ba40a4ba7b7e43a, type: 2}
+  - enemyship: {fileID: 1249053333031022, guid: 51f4aba98fd1eaa42bfcf3c34a2af607,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
